@@ -1,8 +1,8 @@
 <div align="center">
 
 # 👨🏽‍🎓 About Me
-I am a Computer Science student at University of Indonesia.  
-I'm currently learning Cybersecurity, while also trying a bit of Machine Learning.
+I'm a Computer Science student at the University of Indonesia.  
+Right now, I'm diving into Cybersecurity and dabbling a bit in Machine Learning.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daffaabhipraya)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@___abhipraya)
@@ -12,6 +12,9 @@ I'm currently learning Cybersecurity, while also trying a bit of Machine Learnin
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/scottiebeam/)
 
 ## Tech Stack
+I've mostly picked up my language and tools skills through online courses.  
+So far, the one I've got under my belt from university is Python.
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
