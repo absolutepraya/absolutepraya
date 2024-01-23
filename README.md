@@ -1,12 +1,14 @@
 <div align="center">
 
 # 👨🏽‍🎓 About Me
-I'm a Computer Science student at the University of Indonesia.  
-Right now, I'm diving into Cybersecurity and dabbling a bit in Machine Learning.
+
+`Student | CySec & Data Enthusiast`
+
+Welcome! I'm Daffa Abhipraya, an outstanding Computer Science student at the University of Indonesia. I am proficient in the realms of Python and Java, with a small touch of HTML, CSS, and JS. I am currently immersing myself in Cybersecurity and while also exploring the nuances of Machine Learning. Always up for a CTF challenge and committed to continuous learning in Computer Science landscape.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daffaabhipraya)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@___abhipraya)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daffaabhiprayaputra@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daffaabhiprayaputra@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/absolutepraya)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/daffaabhiprayaputra?si=049ad388ddc540f1)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/scottiebeam/)
@@ -27,10 +29,10 @@ So far, the one I've got under my belt from university is Python.
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
 ## Recently Achieved
-<img src="https://i.ibb.co/QKxGxHC/google-cybersecurity-certificate.png" alt="Google Cybersecurity Certificate" width="300">
+<img src="https://i.ibb.co/QKxGxHC/google-cybersecurity-certificate.png" alt="Google Cybersecurity Certificate" width="290">
 
-**Google Cybersecurity Professional**  
+🌍 **Google Cybersecurity Professional**  
 Took me about 5 months to complete all 8 courses in this program.  
-To see the details of me completing it, check this <a href="https://www.linkedin.com/feed/update/urn:li:activity:7145186448936214528/">LinkedIn post</a>.
+To see the details of me completing it, check this [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7145186448936214528/).
 
 </div>
