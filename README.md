@@ -1,6 +1,6 @@
 <div align="center">
 
-![What's Up!](https://i.ibb.co/1fQzKkz/Welcome.png)
+<img src="https://i.ibb.co/1fQzKkz/Welcome.png" width=100%>
 
 # 👨🏽‍🎓 About Me
 
