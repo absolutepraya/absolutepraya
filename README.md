@@ -1,6 +1,7 @@
 <div align="center">
 
-![Header](https://media.discordapp.net/attachments/940285152884559903/1204617564186083368/Welcome.png?ex=65d56288&is=65c2ed88&hm=f176039bff3d7facedf8a413822220bb6183c1db2656282405ec5a3ffa978edd&=&format=webp&quality=lossless&width=1680&height=560)
+![Header_Dark](./Welcome_Dark.png#gh-dark-mode-only)
+![Header_Light](./Welcome_Light.png##gh-light-mode-only)
 
 # 👨🏽‍🎓 About Me
 
