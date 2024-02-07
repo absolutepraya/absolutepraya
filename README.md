@@ -1,10 +1,12 @@
 <div align="center">
 
+![What's Up!](https://i.ibb.co/1fQzKkz/Welcome.png)
+
 # 👨🏽‍🎓 About Me
 
 `Student | CySec & Data Enthusiast`
 
-Welcome! I'm Daffa Abhipraya, an outstanding Computer Science student at the University of Indonesia. I am proficient in the realms of Python and Java, with a small touch of HTML, CSS, and JS. I am currently immersing myself in Cybersecurity and while also exploring the nuances of Machine Learning. Always up for a CTF challenge and committed to continuous learning in Computer Science landscape.
+Welcome! I'm Daffa Abhipraya, a Computer Science student at University of Indonesia. I am proficient in the realms of Python and Java, with a small touch of HTML, CSS, and JS. I am currently immersing myself in Cybersecurity and while also exploring the nuances of Machine Learning. Always up for a CTF challenge and committed to continuous learning in Computer Science landscape.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daffaabhipraya)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@___abhipraya)
