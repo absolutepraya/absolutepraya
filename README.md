@@ -5,7 +5,7 @@
 
 # 👨🏽‍🎓 About Me
 
-`Student | CySec & Data Enthusiast`
+`Student | CyberSec Enthusiast | CTF Player | Software Engineer`
 
 Welcome! I'm Daffa Abhipraya, a Computer Science student at University of Indonesia. I am proficient in the realms of Python and Java, with a small touch of HTML, CSS, and JS. I am currently immersing myself in Cybersecurity and while also exploring the nuances of Machine Learning. Always up for a CTF challenge and committed to continuous learning in Computer Science landscape.
 
