@@ -31,7 +31,7 @@ So far, the one I've got under my belt from university is Python.
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
 ## Recently Achieved
-<img src="https://i.ibb.co/QKxGxHC/google-cybersecurity-certificate.png" alt="Google Cybersecurity Certificate" width="290">
+<img src="https://i.ibb.co/WsgjJXq/Google-Cy-Sec.png" alt="Google Cybersecurity Certificate" width="290">
 
 🌍 **Google Cybersecurity Professional**  
 Took me about 5 months to complete all 8 courses in this program.  
