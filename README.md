@@ -7,7 +7,7 @@
 
 `Student | CyberSec Enthusiast | CTF Player | Fullstack Engineer`
 
-Hey! My name is Daffa Abhipraya, a Computer Science student at University of Indonesia. I have a good background in Python and Java that has allowed me to expand my skills into full-stack development which mainly entails using React together with Tailwind for the frontend and Express and MongoDB for the backend. With a passion for CTF contests as well as Hackathons, I look out for opportunities so that I can compete against myself while putting my knowledge into practice in real life situations. In the rapidly changing environment of Computer Science, I am dedicated to continuous learning so as to develop myself in tandem with it.
+Welcome! My name is Daffa Abhipraya, a Computer Science student at University of Indonesia. I have a good background in Python and Java that has allowed me to expand my skills into full-stack development which mainly entails using React together with Tailwind for the frontend and Express and MongoDB for the backend. With a passion for CTF contests as well as Hackathons, I look out for opportunities so that I can compete against myself while putting my knowledge into practice in real life situations. In the rapidly changing environment of Computer Science, I am dedicated to continuous learning so as to develop myself in tandem with it.
 
 ## Tech Stack: Fullstack
 
