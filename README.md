@@ -34,7 +34,8 @@ I am always enthusiastic about participating in CTF competitions and hackathons,
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SPLUNK](https://img.shields.io/badge/splunk-000000.svg?style=for-the-badge&logo=splunk&color=%23000000)
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)  
+and more...
 
 ## Recently Achieved
 <img src="https://i.ibb.co/WsgjJXq/Google-Cy-Sec.png" alt="Google Cybersecurity Certificate" width="290">
