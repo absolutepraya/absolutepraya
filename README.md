@@ -3,6 +3,7 @@
 ![Header_Dark](./Welcome_Dark.png#gh-dark-mode-only)
 ![Header_Light](./Welcome_Light.png##gh-light-mode-only)
 
+<!--
 # 👨🏽‍🎓 About Me
 
 `Student | CyberSec Enthusiast | CTF Player | Fullstack Engineer`
@@ -42,5 +43,6 @@ and more...
 🌍 **Google Cybersecurity Professional**  
 Took me about 5 months to complete all 8 courses in this program.  
 To see the details of me completing it, check this [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7145186448936214528/).
+-->
 
 </div>
