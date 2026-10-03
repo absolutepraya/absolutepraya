@@ -2,6 +2,8 @@
 
 i like making complicated things feel simple. currently ai engineer @ avanade. [see more of me here](https://abhipraya.dev).
 
+---
+
 <a href="https://github.com/absolutepraya/marka">
   <img src="https://raw.githubusercontent.com/absolutepraya/marka/main/assets/brand/marka/source/marka-ios-app-icon-dark.png" alt="marka" width="48" height="48" align="left" />
 </a>
