@@ -1,25 +1,21 @@
-```console
-absolutepraya@github:~$ whoami
-Daffa Abhipraya
-AI Engineer @ Avanade · Computer Science @ Universitas Indonesia
+## hey, i'm abhip 👋
 
-absolutepraya@github:~$ cat about.txt
-I build AI systems, useful products, and tools for developers.
-I care about how they feel to use and how they hold up in production.
-```
+**i like making complicated things feel simple.**
 
-```console
-absolutepraya@github:~$ ls projects/
-```
+ai engineer at avanade · computer science at universitas indonesia
 
-- [`marka`](https://github.com/absolutepraya/marka) - A self-hosted library for links, notes, images, and PDFs. Save things worth coming back to.
-- [`wt`](https://github.com/absolutepraya/wt) - Isolated Git workspaces for coding agents, with setup, ports, and cleanup handled.
-- [`PINTARU`](https://github.com/absolutepraya/pintaru-be) - Turns questions into narrated learning videos and illustrated storybooks. Won JIHS 2025 and placed second at Microsoft AI4Accessibility.
+### currently working on [marka](https://github.com/absolutepraya/marka)
 
-```console
-absolutepraya@github:~$ cat links.txt
-```
+a self-hosted library for the things you save and want to find again. links, notes, images, and files, all in one place.
 
-[Website](https://abhipraya.dev) · [Blog](https://blog.abhipraya.dev) · [LinkedIn](https://www.linkedin.com/in/daffaabhipraya) · [Email](mailto:daffa@abhipraya.dev)
+<a href="https://marka.abhipraya.dev/">
+  <img src="https://raw.githubusercontent.com/absolutepraya/marka/main/screenshots/marka-library-overview.png" alt="marka: a visual library for saved links, notes, images, and files" width="720" />
+</a>
 
-<!-- Add the Spotify last-listened section here once the widget is connected. -->
+[try it](https://marka.abhipraya.dev/) · [source](https://github.com/absolutepraya/marka)
+
+i also built [wt](https://github.com/absolutepraya/wt), because your coding agents need their own rooms.
+
+[website](https://abhipraya.dev) · [writing](https://blog.abhipraya.dev) · [linkedin](https://www.linkedin.com/in/daffaabhipraya) · [email](mailto:daffa@abhipraya.dev)
+
+<!-- add spotify here once the widget is connected. -->
