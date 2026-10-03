@@ -1,7 +1,6 @@
 **hey, i'm abhip.** <a href="https://abhipraya.dev"><img src="https://raw.githubusercontent.com/absolutepraya/portfolio/core/public/favicon.png" alt="abhip icon" width="17" height="17" align="absmiddle" /></a>
 
-i like making complicated things feel simple. currently ai engineer @ [avanade](https://www.avanade.com/) <a href="https://www.avanade.com/"><img src="https://raw.githubusercontent.com/absolutepraya/absolutepraya/profile/terminal-cli-v1/assets/avanade-symbol.svg" alt="avanade icon" width="17" height="17" align="absmiddle" /></a>.  
-↗ [see more of me here](https://abhipraya.dev).
+i like making complicated things feel simple. currently ai engineer @ [avanade](https://www.avanade.com/) <a href="https://www.avanade.com/"><img src="./assets/avanade-symbol.svg" alt="avanade icon" width="17" height="17" align="absmiddle" /></a>.
 
 ---
 
